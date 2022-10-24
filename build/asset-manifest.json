@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac835ab4.css",
+    "main.js": "/static/js/main.9e36b2b2.js",
+    "static/media/cat2.png": "/static/media/cat2.61988b197999f8b907da.png",
+    "static/media/cat1.png": "/static/media/cat1.fceeba8f775205e74e06.png",
+    "static/media/dog1.jpg": "/static/media/dog1.8a6a03aeccac259a39b6.jpg",
+    "static/media/simpsons1.jpg": "/static/media/simpsons1.fb53b717be12c67a51af.jpg",
+    "static/media/img.jpg": "/static/media/img.1cb09dcc37d0ba6f838d.jpg",
+    "static/media/simpsons2.jpg": "/static/media/simpsons2.562bdfe45df7beee8d88.jpg",
+    "static/media/squirrel1.jpg": "/static/media/squirrel1.a07eb3eb26869e749983.jpg",
+    "static/media/bear1.jpg": "/static/media/bear1.9ec0ccbe2a62b55c740b.jpg",
+    "index.html": "/index.html",
+    "main.ac835ab4.css.map": "/static/css/main.ac835ab4.css.map",
+    "main.9e36b2b2.js.map": "/static/js/main.9e36b2b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac835ab4.css",
+    "static/js/main.9e36b2b2.js"
+  ]
+}
