@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://asar-memeland-server.netlify.app/' });
+const API = axios.create({ baseURL: 'https://meme-generator-server.onrender.com' });
 
 const memeUrl = '/meme';
 
